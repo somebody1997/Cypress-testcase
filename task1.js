@@ -3,7 +3,7 @@
  function hideLoadingDiv() {
     setTimeout(function(){
       document.getElementById('btn').classList.add('hidden');
-    },2000)
+    },10000)
   }
 
  btn.style.top = Math.floor((Math.random() * 800) + 1) + "px";
