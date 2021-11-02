@@ -11,7 +11,7 @@
 
  let count = 1;
  function myFunction() {
-   if (count < 50) {
+   if (count < 100) {
      count++;
    }
    else {
