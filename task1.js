@@ -1,4 +1,4 @@
- var btn = document.getElementById("phantom");
+ var btn = document.getElementById('phantom');
  var screenWidth = window.innerWidth;
  var screenHeight = window.innerHeight;
 
@@ -17,6 +17,6 @@
      count++;
    }
    else {
-     document.getElementById("passcode").innerHTML = "passYa";
+     document.getElementById("passcode").innerHTML = "passYa12!#";
    }
  };
